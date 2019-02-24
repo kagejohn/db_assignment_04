@@ -57,3 +57,31 @@ grant select, insert, update on orderdetails to Sales;
 grant select, insert, update on orders to Sales;
 grant select, update on products to Sales;
 ```
+
+## Exercise 2 - logging
+
+#### SQL
+
+##### Insert 2 new employees
+```mysql
+INSERT INTO `classicmodels`.`employees` (`employeeNumber`, `lastName`, `firstName`, `extension`, `email`, `officeCode`, `reportsTo`, `jobTitle`) VALUES (2000, 'fish1', 'cake1', 'x101', 'cfish1@classicmodelcars.com', 7, 1088, 'Sales Rep');
+INSERT INTO `classicmodels`.`employees` (`employeeNumber`, `lastName`, `firstName`, `extension`, `email`, `officeCode`, `reportsTo`, `jobTitle`) VALUES (2001, 'fish2', 'cake2', 'x101', 'cfish2@classicmodelcars.com', 7, 1088, 'Sales Rep');
+```
+
+##### Insert 1 new product
+```mysql
+INSERT INTO `classicmodels`.`products` (`productCode`, `productName`, `productLine`, `productScale`, `productVendor`, `productDescription`, `quantityInStock`, `buyPrice`, `MSRP`) VALUES ('C1_1', 'Cake Fish', 'Classic Cars', '1:100', 'The finest cake fish', 'A disturbing combination of cake and fish', 1, 1000000, 1000001);
+```
+
+##### Create 1 new order
+```mysql
+INSERT INTO `classicmodels`.`customers` (`customerNumber`, `customerName`, `contactLastName`, `contactFirstName`, `phone`, `addressLine1`, `addressLine2`, `city`, `state`, `postalCode`, `country`, `salesRepEmployeeNumber`, `creditLimit`) VALUES (500, 'cake fish', 'fish', 'cake', '555 555 555 555', 'cake fish 1', '', 'CakeFish', 'FishCake', 555555, 'CakeFish', 2000, 10000000.00);
+INSERT INTO `classicmodels`.`orders` (`orderNumber`, `orderDate`, `requiredDate`, `shippedDate`, `status`, `comments`, `customerNumber`) VALUES (10500, '2019-02-24', '2019-02-25', null, 'In Process', null, 500);
+INSERT INTO `classicmodels`.`orderdetails` (`orderNumber`, `productCode`, `quantityOrdered`, `priceEach`, `orderLineNumber`) VALUES (10500, 'C1_1', 1, 1000001, 1);
+UPDATE `classicmodels`.`products` SET `quantityInStock` = 0 WHERE `productCode` = 'C1_1';
+```
+
+#### Logs
+
+[Log of commands can be seen here](https://github.com/kagejohn/db_assignment_04/blob/master/logs/sql_actions_MySQL_Sample_Database.log)
+[Log of other things can be seen here](https://github.com/kagejohn/db_assignment_04/blob/master/logs/wb.log)
