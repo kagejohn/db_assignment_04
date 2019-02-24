@@ -86,3 +86,11 @@ UPDATE `classicmodels`.`products` SET `quantityInStock` = 0 WHERE `productCode` 
 [Log of commands can be seen here](https://github.com/kagejohn/db_assignment_04/blob/master/logs/sql_actions_MySQL_Sample_Database.log)
 
 [Log of other things can be seen here](https://github.com/kagejohn/db_assignment_04/blob/master/logs/wb.log)
+
+## Exercise 3 - backup and recovery
+
+#### Method used
+
+I have used the MySQL Workbench "Data Export" function to export the database but i can't see a way to export the privileges so they are missing.
+
+The backup consist of SQL files
