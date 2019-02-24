@@ -1,0 +1,160 @@
+17:59:49 [ERR][      Workbench]: Console redirection failed.
+17:59:49 [INF][      Workbench]: Starting up Workbench
+17:59:49 [INF][      Workbench]: Current environment:
+	Command line: "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\MySQLWorkbench.exe" 
+	CurrentDirectory: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	HasShutdownStarted: False
+	OSVersion: Microsoft Windows NT 6.2.9200.0
+	SystemDirectory: C:\WINDOWS\system32
+	TickCount: 180544109
+	UserInteractive: True
+	Version: 4.0.30319.42000
+	WorkingSet: 80670720
+17:59:49 [INF][      Workbench]: Environment variables:
+	SystemDrive = C:
+	ProgramFiles(x86) = C:\Program Files (x86)
+	USERNAME = kagejohn
+	ProgramW6432 = C:\Program Files
+	PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+	APPDATA = C:\Users\kagejohn\AppData\Roaming
+	TMP = C:\Users\kagejohn\AppData\Local\Temp
+	PROCESSOR_ARCHITECTURE = AMD64
+	Path = C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\HashiCorp\Vagrant\bin;C:\Users\kagejohn\AppData\Local\Android\Sdk\platform-tools\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;D:\Program Files\nodejs\;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1841.0.13779\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1841.0.13779\ucrt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1841.0.13779\bin\Qt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1841.0.13779\ucrt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1841.0.13779\bin\Ssl;C:\Users\kagejohn\AppData\Local\GitHubDesktop\bin;D:\Program Files\Java\jdk-10.0.2\bin;C:\Users\kagejohn\AppData\Roaming\npm;D:\Program Files\Oracle\VirtualBox;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\ucrt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Qt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Ssl
+	PROCESSOR_REVISION = 2a07
+	TEMP = C:\Users\kagejohn\AppData\Local\Temp
+	USERPROFILE = C:\Users\kagejohn
+	CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+	LOGONSERVER = \\DESKTOP-3PVTITD
+	DASHLANE_DLL_DIR = C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\ucrt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Qt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Ssl
+	MYSQLCONNECTOR_ASSEMBLIESPATH = C:\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2
+	SystemRoot = C:\WINDOWS
+	OneDrive = C:\Users\kagejohn\OneDrive
+	VBOX_MSI_INSTALL_PATH = D:\Program Files\Oracle\VirtualBox\
+	CommonProgramFiles = C:\Program Files\Common Files
+	ProgramData = C:\ProgramData
+	HOMEPATH = \Users\kagejohn
+	COMPUTERNAME = DESKTOP-3PVTITD
+	ALLUSERSPROFILE = C:\ProgramData
+	CommonProgramW6432 = C:\Program Files\Common Files
+	VS140COMNTOOLS = D:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+	SESSIONNAME = Console
+	DriverData = C:\Windows\System32\Drivers\DriverData
+	HOMEDRIVE = C:
+	windir = C:\WINDOWS
+	NUMBER_OF_PROCESSORS = 8
+	OS = Windows_NT
+	ERLANG_HOME = C:\Program Files\erl10.0.1
+	ProgramFiles = C:\Program Files
+	ComSpec = C:\WINDOWS\system32\cmd.exe
+	PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+	JAVA_HOME = D:\Program Files\Java\jdk-10.0.2\bin
+	PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\PowerShell\Modules\
+	CodeContractsInstallDir = C:\Program Files (x86)\Microsoft\Contracts\
+	USERDOMAIN = DESKTOP-3PVTITD
+	PROCESSOR_LEVEL = 6
+	LOCALAPPDATA = C:\Users\kagejohn\AppData\Local
+	VS150ENTCOMNTOOLS = D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\Tools\
+	USERDOMAIN_ROAMINGPROFILE = DESKTOP-3PVTITD
+	PUBLIC = C:\Users\Public
+17:59:49 [INF][      Workbench]: Current version given by meta info is: 8.0.13
+17:59:49 [INF][      Workbench]: Setting PATH to: C:\WINDOWS\system32;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\HashiCorp\Vagrant\bin;C:\Users\kagejohn\AppData\Local\Android\Sdk\platform-tools\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;D:\Program Files\nodejs\;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1841.0.13779\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1841.0.13779\ucrt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1841.0.13779\bin\Qt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1841.0.13779\ucrt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1841.0.13779\bin\Ssl;C:\Users\kagejohn\AppData\Local\GitHubDesktop\bin;D:\Program Files\Java\jdk-10.0.2\bin;C:\Users\kagejohn\AppData\Roaming\npm;D:\Program Files\Oracle\VirtualBox;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\ucrt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Qt;C:\Users\kagejohn\AppData\Roaming\Dashlane\6.1907.0.17833\bin\Ssl
+17:59:49 [INF][ mforms managed]: Initializing mforms wrapper
+17:59:49 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	plugin path: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	struct path: 
+	module path: C:\Program Files\MySQL\MySQL Workbench 8.0 CE/modules
+	library path: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	user data dir: C:\Users\kagejohn\AppData\Roaming\MySQL\Workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+17:59:49 [INF][      WBContext]: WbContext::init
+17:59:52 [INF][            WBA]: Looking for extension modules for WBA...
+17:59:52 [INF][            WBA]: 0 extension modules found
+17:59:52 [WRN][            grt]: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules/data/mysql_rdbms_info.xml:1401: link 'om.mysql.rdbms.mysql.driver.native_sshtun' <object > key=owner could not be resolved
+17:59:53 [WRN][            grt]: C:\Users\kagejohn\AppData\Roaming\MySQL\Workbench\connections.xml:26: link '{4B8C3322-FCD3-4D97-9B30-B0147D37CF30}' <object GrtObject> key=owner could not be resolved
+17:59:53 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Windows version 8.0.13 CE build 13780177 (64 bit)
+	Configuration Directory: C:\Users\kagejohn\AppData\Roaming\MySQL\Workbench
+	Data Directory: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	Cairo Version: 1.10.2
+	OS: Microsoft Windows 10 Pro
+	CPU: 8x Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz, 16.0 GiB RAM
+	Active video adapter NVIDIA GeForce GTX 560
+	Installed video RAM: 1024 MB
+	Current video mode: 1920 x 1080 x 4294967296 colors
+	Used bit depth: 32
+	Driver version: 23.21.13.8813
+	Installed display drivers: C:\WINDOWS\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvldumdx.dll
+	Current user language: Danish (Denmark)
+
+17:59:53 [INF][      Workbench]: UI is up
+17:59:53 [INF][      Workbench]: Running the application
+18:21:26 [INF][SQL Editor Form]: Opened connection 'MySQL Sample Database' to MySQL Community Server - GPL version 8.0.15
+18:21:27 [INF][  column_widths]: Initializing column width cache for MySQL_Sample_Database
+18:21:27 [INF][        WQE.net]: Launching SQL IDE
+18:21:28 [INF][        WQE.net]: SQL IDE UI is ready
+18:21:39 [ERR][wb_admin_control.py:get_config_options:760]: Could not open the file "C:\ProgramData\MySQL\MySQL Server 5.5\my.ini": [Errno 2] No such file or directory: 'C:\\ProgramData\\MySQL\\MySQL Server 5.5\\my.ini'
+18:21:39 [INF][wb_admin_control.py:query_server_installation_info:860]: Currently connected to MySQL server version '8.0.15', conn status = True, active plugins = ['INNODB_INDEXES', 'sha256_password', 'INNODB_CMPMEM_RESET', 'INNODB_BUFFER_POOL_STATS', 'CSV', 'mysql_native_password', 'INNODB_FT_BEING_DELETED', 'INNODB_BUFFER_PAGE', 'INNODB_CMP_PER_INDEX_RESET', 'INNODB_TABLESTATS', 'ARCHIVE', 'INNODB_FT_INDEX_CACHE', 'INNODB_CMP', 'INNODB_FT_CONFIG', 'InnoDB', 'INNODB_FT_DEFAULT_STOPWORD', 'INNODB_TRX', 'binlog', 'INNODB_TABLES', 'INNODB_COLUMNS', 'INNODB_CMPMEM', 'INNODB_FT_INDEX_TABLE', 'sha2_cache_cleaner', 'MEMORY', 'PERFORMANCE_SCHEMA', 'BLACKHOLE', 'caching_sha2_password', 'INNODB_SESSION_TEMP_TABLESPACES', 'INNODB_CACHED_INDEXES', 'TempTable', 'INNODB_VIRTUAL', 'MRG_MYISAM', 'INNODB_CMP_PER_INDEX', 'INNODB_FT_DELETED', 'mysqlx_cache_cleaner', 'INNODB_TABLESPACES', 'INNODB_METRICS', 'mysqlx', 'MyISAM', 'INNODB_TEMP_TABLE_INFO', 'INNODB_CMP_RESET', 'ngram', 'INNODB_BUFFER_PAGE_LRU']
+18:25:15 [ERR][wb_admin_control.py:get_config_options:760]: Could not open the file "C:\ProgramData\MySQL\MySQL Server 5.5\my.ini": [Errno 2] No such file or directory: 'C:\\ProgramData\\MySQL\\MySQL Server 5.5\\my.ini'
+18:25:15 [INF][wb_admin_control.py:query_server_installation_info:860]: Currently connected to MySQL server version '8.0.15', conn status = True, active plugins = ['INNODB_INDEXES', 'sha256_password', 'INNODB_CMPMEM_RESET', 'INNODB_BUFFER_POOL_STATS', 'CSV', 'mysql_native_password', 'INNODB_FT_BEING_DELETED', 'INNODB_BUFFER_PAGE', 'INNODB_CMP_PER_INDEX_RESET', 'INNODB_TABLESTATS', 'ARCHIVE', 'INNODB_FT_INDEX_CACHE', 'INNODB_CMP', 'INNODB_FT_CONFIG', 'InnoDB', 'INNODB_FT_DEFAULT_STOPWORD', 'INNODB_TRX', 'binlog', 'INNODB_TABLES', 'INNODB_COLUMNS', 'INNODB_CMPMEM', 'INNODB_FT_INDEX_TABLE', 'sha2_cache_cleaner', 'MEMORY', 'PERFORMANCE_SCHEMA', 'BLACKHOLE', 'caching_sha2_password', 'INNODB_SESSION_TEMP_TABLESPACES', 'INNODB_CACHED_INDEXES', 'TempTable', 'INNODB_VIRTUAL', 'MRG_MYISAM', 'INNODB_CMP_PER_INDEX', 'INNODB_FT_DELETED', 'mysqlx_cache_cleaner', 'INNODB_TABLESPACES', 'INNODB_METRICS', 'mysqlx', 'MyISAM', 'INNODB_TEMP_TABLE_INFO', 'INNODB_CMP_RESET', 'ngram', 'INNODB_BUFFER_PAGE_LRU']
+18:38:25 [ERR][SQL Editor Form]: Error Code: 1046. No database selected
+Select the default DB to be used by double-clicking its name in the SCHEMAS list in the sidebar.
+18:38:38 [ERR][SQL Editor Form]: Error Code: 1146. Table 'classicmodels.role_edges' doesn't exist
+18:54:39 [ERR][wb_admin_control.py:get_config_options:760]: Could not open the file "C:\ProgramData\MySQL\MySQL Server 5.5\my.ini": [Errno 2] No such file or directory: 'C:\\ProgramData\\MySQL\\MySQL Server 5.5\\my.ini'
+18:54:39 [INF][wb_admin_control.py:query_server_installation_info:860]: Currently connected to MySQL server version '8.0.15', conn status = True, active plugins = ['INNODB_INDEXES', 'sha256_password', 'INNODB_CMPMEM_RESET', 'INNODB_BUFFER_POOL_STATS', 'CSV', 'mysql_native_password', 'INNODB_FT_BEING_DELETED', 'INNODB_BUFFER_PAGE', 'INNODB_CMP_PER_INDEX_RESET', 'INNODB_TABLESTATS', 'ARCHIVE', 'INNODB_FT_INDEX_CACHE', 'INNODB_CMP', 'INNODB_FT_CONFIG', 'InnoDB', 'INNODB_FT_DEFAULT_STOPWORD', 'INNODB_TRX', 'binlog', 'INNODB_TABLES', 'INNODB_COLUMNS', 'INNODB_CMPMEM', 'INNODB_FT_INDEX_TABLE', 'sha2_cache_cleaner', 'MEMORY', 'PERFORMANCE_SCHEMA', 'BLACKHOLE', 'caching_sha2_password', 'INNODB_SESSION_TEMP_TABLESPACES', 'INNODB_CACHED_INDEXES', 'TempTable', 'INNODB_VIRTUAL', 'MRG_MYISAM', 'INNODB_CMP_PER_INDEX', 'INNODB_FT_DELETED', 'mysqlx_cache_cleaner', 'INNODB_TABLESPACES', 'INNODB_METRICS', 'mysqlx', 'MyISAM', 'INNODB_TEMP_TABLE_INFO', 'INNODB_CMP_RESET', 'ngram', 'INNODB_BUFFER_PAGE_LRU']
+19:00:36 [ERR][SQL Editor Form]: Error Code: 1396. Operation CREATE USER failed for 'Inventory'@'%'
+19:02:55 [ERR][SQL Editor Form]: Error Code: 1396. Operation CREATE USER failed for 'Inventory'@'%'
+19:13:03 [INF][SQL Editor Form]: Opened connection 'Inventory' to MySQL Community Server - GPL version 8.0.15
+19:13:04 [INF][  column_widths]: Initializing column width cache for Inventory
+19:13:04 [INF][        WQE.net]: Launching SQL IDE
+19:13:04 [INF][        WQE.net]: SQL IDE UI is ready
+19:13:58 [ERR][SQL Editor Form]: Error Code: 1142. SELECT command denied to user 'Inventory'@'172.17.0.1' for table 'products'
+19:15:12 [ERR][SQL Editor Form]: Error Code: 1142. SELECT command denied to user 'Inventory'@'172.17.0.1' for table 'products'
+19:15:24 [INF][        WQE.net]: Shutting down SQL editor (Inventory)
+19:15:33 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'Inventory'@'172.17.0.1' (using password: YES)
+19:15:33 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'Inventory'@'172.17.0.1' (using password: YES)
+19:15:34 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'Inventory'@'172.17.0.1' (using password: YES)
+19:15:34 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'Inventory'@'172.17.0.1' (using password: YES)
+19:15:45 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'Inventory'@'172.17.0.1' (using password: YES)
+19:15:45 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'Inventory'@'172.17.0.1' (using password: YES)
+19:15:47 [INF][    WQE backend]: User cancelled connection
+19:15:47 [INF][      WBContext]: Connection to Inventory cancelled by user: Cancelled
+19:16:17 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'Inventory'@'172.17.0.1' (using password: NO)
+19:16:17 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'Inventory'@'172.17.0.1' (using password: NO)
+19:16:23 [INF][SQL Editor Form]: Opened connection 'Inventory' to MySQL Community Server - GPL version 8.0.15
+19:16:24 [INF][        WQE.net]: Launching SQL IDE
+19:16:25 [INF][        WQE.net]: SQL IDE UI is ready
+19:16:33 [INF][        WQE.net]: Shutting down SQL editor (Inventory)
+19:16:36 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'Inventory'@'172.17.0.1' (using password: NO)
+19:16:36 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'Inventory'@'172.17.0.1' (using password: NO)
+19:16:46 [INF][SQL Editor Form]: Opened connection 'Inventory' to MySQL Community Server - GPL version 8.0.15
+19:16:46 [INF][        WQE.net]: Launching SQL IDE
+19:16:47 [INF][        WQE.net]: SQL IDE UI is ready
+19:16:50 [INF][        WQE.net]: Shutting down SQL editor (Inventory)
+19:20:24 [INF][SQL Editor Form]: Opened connection 'Inventory' to MySQL Community Server - GPL version 8.0.15
+19:20:25 [INF][        WQE.net]: Launching SQL IDE
+19:20:25 [INF][        WQE.net]: SQL IDE UI is ready
+19:20:28 [ERR][SQL Editor Form]: Error querying performance_schema.events_statements_current
+: Exception: SELECT command denied to user 'Inventory'@'172.17.0.1' for table 'events_statements_current'
+19:20:28 [ERR][SQL Editor Form]: Error querying performance_schema.event_stages_history
+: Exception: SELECT command denied to user 'Inventory'@'172.17.0.1' for table 'events_stages_history_long'
+19:20:28 [ERR][SQL Editor Form]: Error querying performance_schema.event_waits_history
+: Exception: SELECT command denied to user 'Inventory'@'172.17.0.1' for table 'events_waits_history_long'
+19:20:34 [INF][        WQE.net]: Shutting down SQL editor (Inventory)
+19:24:08 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 10 * from orders' at line 1
+19:25:58 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where status != 'Shipped'' at line 1
+19:30:50 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'grant for Bookkeeping' at line 1
+20:17:52 [ERR][      WBContext]: WBContext: exception in flush idle task: Exception: SQL logic error or missing database
+20:18:17 [ERR][      WBContext]: WBContext: exception in flush idle task: Exception: SQL logic error or missing database
+21:03:11 [ERR][SQL Editor Form]: Error Code: 1054. Unknown column 'orderBumber' in 'order clause'
+21:11:04 [ERR][SQL Editor Form]: Error Code: 1292. Incorrect date value: '1993' for column 'orderDate' at row 1
+21:15:28 [INF][SQL Editor Form]: Opened connection 'Inventory' to MySQL Community Server - GPL version 8.0.15
+21:15:28 [INF][        WQE.net]: Launching SQL IDE
+21:15:29 [INF][        WQE.net]: SQL IDE UI is ready
+21:15:41 [ERR][SQL Editor Form]: Error Code: 1142. SELECT command denied to user 'Inventory'@'172.17.0.1' for table 'employees'
