@@ -158,3 +158,13 @@ Select the default DB to be used by double-clicking its name in the SCHEMAS list
 21:15:28 [INF][        WQE.net]: Launching SQL IDE
 21:15:29 [INF][        WQE.net]: SQL IDE UI is ready
 21:15:41 [ERR][SQL Editor Form]: Error Code: 1142. SELECT command denied to user 'Inventory'@'172.17.0.1' for table 'employees'
+21:27:17 [INF][        WQE.net]: Shutting down SQL editor (Inventory)
+21:44:45 [ERR][       pymforms]: Unhandled exception in Python code: 
+Traceback (most recent call last):
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_admin_export.py", line 2199, in start
+    self.operation_tab.start()
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_admin_export.py", line 1707, in start
+    schemas_to_dump = self.table_list_model.get_objects_to_dump(include_empty_schemas=True)
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_admin_export.py", line 424, in get_objects_to_dump
+    tables, selection = self.tables_by_schema[schema]
+KeyError: (u'classicmodels',)
